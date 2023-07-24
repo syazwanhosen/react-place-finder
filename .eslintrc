@@ -1,0 +1,6 @@
+{
+  "extends": "next/core-web-vitals",
+  "globals": {
+    "USE_FIXTURES": true
+  }
+}

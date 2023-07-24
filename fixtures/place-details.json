@@ -1,0 +1,1052 @@
+{
+  "html_attributions": [],
+  "result": [
+    {
+      "address_components": [
+        {
+          "long_name": "Federal Territory of Kuala Lumpur",
+          "short_name": "Federal Territory of Kuala Lumpur",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Kuala Lumpur",
+          "short_name": "Kuala Lumpur",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Malaysia",
+          "short_name": "MY",
+          "types": ["country", "political"]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Kuala Lumpur</span>, <span class=\"region\">Federal Territory of Kuala Lumpur</span>, <span class=\"country-name\">Malaysia</span>",
+      "formatted_address": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1319197,
+          "lng": 101.6840589
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.243378899017653,
+            "lng": 101.7585290178111
+          },
+          "southwest": {
+            "lat": 3.033632875497139,
+            "lng": 101.6154500004995
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Federal Territory of Kuala Lumpur",
+      "photos": [
+        {
+          "height": 487,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106697019253168507623\">Fred Gichohi</a>"
+          ],
+          "photo_reference": "Aaw_FcI5e2eQOb41Mx04IbBTCSw7v5dQsfzKdAiOd-HqYhSvRP5ehMA9JlUv8OmXLoVfUoTA4Bx5thLQMfoPj81GLQj8TTKCGusR_Jb8D7tWqWawKn3Jj344U-sOzDOgCYnxeQevA3HcElRsKJJ9BDd5F4Sdc2oMYRc4y6o0gan8wanwusdU",
+          "width": 730
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116578454134401453439\">Robinta Sembiring Pelawi</a>"
+          ],
+          "photo_reference": "Aaw_FcJM-qXQXEe4i7KDnwD1SHjMRiKmisCyaJ2rpoBagqxalaxd7uhd8MpYA7h-0v3Jf6jNcz-V2SK00Ni8xaabifZqa3tsRqJa9JwwAqQ1c-RJFN_KuVlqCKynB7YGUxtwognS59N65MGXmlepfIFt3irwcpI0VyW0Ng7JYkGAulam2W6J",
+          "width": 4608
+        },
+        {
+          "height": 769,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105625718516119167891\">Miodrag Davidović</a>"
+          ],
+          "photo_reference": "Aaw_FcIWQdpccNxCDyL6Y-23QnvXxERlIBbXbxwCCKkRA02UNTBw9qkoYgEoELUhe_DqYaY_kwufy6_i1IIsB0Jc5YRDe36eWnyCGdxDJCGWVFkgh_KISaGGMljiqpWmo7cJKZUn0eYlnT8k45ovZk_J5i0SSuz4WDX61PYguj2P1Ngu_VUM",
+          "width": 1000
+        },
+        {
+          "height": 3771,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115595487231759899439\">Zeynep Cerrah</a>"
+          ],
+          "photo_reference": "Aaw_FcJ-ZvCpREMNQXglKDIDFUlOqsyZv3nbc9aacV-QmYEhRIoT2qiTuCl40pl3IG-PWDqQ9kQuknjgvMNciJgX1IO00DJOF1qK2wcsjcvi0chToKivLlF15b86f1qmW9Crf8_TNVBKaCreMmS1zqS_dmuXDJr1WX7zT1wNQh5Syw5uY12L",
+          "width": 2121
+        },
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106574445724858739281\">Ester Kusuma Putri</a>"
+          ],
+          "photo_reference": "Aaw_FcL281780Id8qX2yI8uZBwmoZ0lVzKC02JFVPf9_cOVsj-ov8A_g1sohbj1Z7KcNEKTsAFN16ZrTizYPWK2R-HjJNUM4-6dz0V3Jcs0Z9o2q-X9ZornLe4-mhaFIDoxEMjRg1GliMQUZCnXD4MWJT87VM4-G7yiMhxBpJqVNaqPPoXY2",
+          "width": 4160
+        },
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109846873665857180989\">Rishikesh D&#39; Malgavkar</a>"
+          ],
+          "photo_reference": "Aaw_FcKD8rxRjQQZMNP8owYDgU9fRb1751ONrzpH5-3AdKN5hhikbVbCobCxEPsslFPln2Tx6pMvzIxqQnFZbWmDg964yH8NubnfYwyE1RQafst2VVtbrBWlZ0s9NqO24Ov_K7sfj5mCYDIe77TJuc9uFaFddRdX5NnDqVnuMPP_sivFFRZu",
+          "width": 750
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110834246673549672439\">Harshvardhan Ratnaparkhee</a>"
+          ],
+          "photo_reference": "Aaw_FcL3He6Hnb0DpuHBBTpLbeCeIWD5as6w3ygvDy52XNBr8u0WPns89j5L6DM90WanfC8xV39k3O3y0rUfZJ1G_1gZ8_mjcxuusw6zRWm1cFKYURbtLMZJE0qjsjkoSgDSkTMzAVWIrmzbxjGtX19iUtMJqjWm-4r1gxvC5aGGuCGCJSCS",
+          "width": 3120
+        },
+        {
+          "height": 682,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109846873665857180989\">Rishikesh D&#39; Malgavkar</a>"
+          ],
+          "photo_reference": "Aaw_FcKhK_PKZl2Pty2vXxm7lcFXmRone_F3Zoq9Fw2bywkFUjp_evvnIlO1jiqeE5lBQ_aXGykr-Cm3WdQSyKwD2ULc7DyLkUCw5wCdz7edPOkp_xNZX_5lyh-O4WCy2svRzO4gIXCLt8QNr5sVsUJU9tHIzHQg7CAHeya51OHYSGJasRJT",
+          "width": 1024
+        },
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113235678621954790854\">Dhananjay Baghel</a>"
+          ],
+          "photo_reference": "Aaw_FcKrohvFFJJpvu3rJwY2NR3o4kswnjITJ1eb6_ZFdyZRWwWSjvmyZJc4tBPqa1viS4AKJvBf8jj_VbHaGb7qPRy2J1ZAoDV39WTRBb32dKm6y3mfiLOwfhngDz7XJw43TexDQHaKwhW8LfX4RSZa7blg3FIgj_7EBBzY9-BUU0I0SCdq",
+          "width": 600
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110530598330385106994\">Andrea Ochoa</a>"
+          ],
+          "photo_reference": "Aaw_FcJAxXJMvcat4O6BxEi6dR--av85ldeuq0cW4wlpNQH36MVhpEhyb-fUjciToJ52vhw5tD-NJFrpSE9oJQJCEWLzkeUAaBy4i1fx2d8fnRQI9X62CkJG6jkT3LjpV4XKzPEF3j6zhxlcoubaGB9FYR2UhEDT_HoEOVlzhfXEVvVnLgg",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ0-cIvSo2zDERmWzYQPUfLiM",
+      "reference": "ChIJ0-cIvSo2zDERmWzYQPUfLiM",
+      "types": ["administrative_area_level_1", "political"],
+      "url": "https://maps.google.com/?q=Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur,+Malaysia&ftid=0x31cc362abd08e7d3:0x232e1ff540d86c99",
+      "utc_offset": 480,
+      "vicinity": "Kuala Lumpur"
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kuala Lumpur",
+          "short_name": "Kuala Lumpur",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Federal Territory of Kuala Lumpur",
+          "short_name": "Federal Territory of Kuala Lumpur",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Malaysia",
+          "short_name": "MY",
+          "types": ["country", "political"]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Kuala Lumpur</span>, <span class=\"region\">Federal Territory of Kuala Lumpur</span>, <span class=\"country-name\">Malaysia</span>",
+      "formatted_address": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.139003,
+          "lng": 101.686855
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.243378899017653,
+            "lng": 101.7585290178111
+          },
+          "southwest": {
+            "lat": 3.033632875497139,
+            "lng": 101.6154500004995
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kuala Lumpur",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116578454134401453439\">Robinta Sembiring Pelawi</a>"
+          ],
+          "photo_reference": "Aaw_FcLxtHc0XZoTOtBZtYdael-OsRv8N94NKz6tFlg3fzzWHXbQbFRV7nhxe8XEXyTXrqcKlzVyP8kDIih4DKlPMlIg3OUKzyiHbIQnJw_celjBJFH1b534VxCrTxS8OLT1VY6QiAOWDemvkJMgHvx0S6dRzyETe9A-8aVHHsNdbhuizwBe",
+          "width": 4608
+        },
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106574445724858739281\">Ester Kusuma Putri</a>"
+          ],
+          "photo_reference": "Aaw_FcIHjZs8jjzGngPHHbwfIls43InyIkbLPgfJviaN39jHMq9q1lonPmZGXhZmuXHagJ0bG74M_r62rwJFq07tZya2KEu7d2EG5eVxnl2_etl2hPZywqj5m2RE3rQgf9WXobUsnn9ytN4PkJ7QdbV0v_DbJciNpa1oroW4ep6JnqOpsvsi",
+          "width": 4160
+        },
+        {
+          "height": 4288,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102818360275858176107\">Mauro Giordani</a>"
+          ],
+          "photo_reference": "Aaw_FcJpZwj8r_guVZtAY5Dd2X_w2PhQAJLhKR__kD7NZOQfxevVj4YiowPb3DASd_DdTds71stlWiv_NqCNsrzbvCzTHvGDks2RhNLSxzgouIp0F8QhphR71aRDXKd7BlaXM6y_-F6KVuGLWe2KbI_8iKX5qY1y6unDLy2ETz-bcWnhHk4",
+          "width": 2848
+        },
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105857423117034156063\">Man Brabus</a>"
+          ],
+          "photo_reference": "Aaw_FcI0PYz0bXGjqELcIHZS8k86t0ssQsQicnEkjWhAWJg7awP4Uv-wdAvgcqP9vKWJPkTEheyhlfTFOFdkz4HXEv5Vl6XBnEw8nibG0QWM3RQmO0ytU-Jzq7vOimZg2yQRRN3ZipFwP4gTN778dRLex2k5IDyAAD-cc8wf698foxNOxDg",
+          "width": 1080
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108969507482168420689\">Creative Creations</a>"
+          ],
+          "photo_reference": "Aaw_FcK7skbg9I0Xe5RB7C6sy4rPKxi6ryWknGpyBWDy8siUKwnOBdapUsT2KBSf-zg9QV8WepS5a4Z59EEkeNLFNdQ3_rAxH72LIsZqjlUBGygKGeJtMLNOsIUpmaYxLYGRhcMEpoOUsMfbiGcR9Muv88T0XcEbP2fHIjTkNDWLOkn1I-O3",
+          "width": 960
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117708723607609233966\">Iv An</a>"
+          ],
+          "photo_reference": "Aaw_FcKYGm2uQgM2I9om1jVIvdOyr2DeOehZ9XC3lCNLpReCOkiokfFJqZDy2GoctX8OMO1JDzTgNHvtAWkS4ubWz8LYJA-Ah1lvzIxO-Qdlv-UuzwLa2CNbASSC9tuaNHSuhnQ-MOsLVUoA9mjasynei19Cy8JVDIlH1zPNhUk-guSx20w0",
+          "width": 6000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106120407663470784927\">Mehdi Heydari</a>"
+          ],
+          "photo_reference": "Aaw_FcKbgNTySC8N2MoPs179bZfcF4WEpst219fh2X6TVrBRB0jQUyvnMWaiVrTWCmw7cPJHWOWZpZ5IIacukk9iVRM6JS7wO_Fxbc3xnhfTuB18xL0cXJQD2iTTNUaAytrsLk9Ojlealn6M8Ngg5LiA7IH4TbNuSmhph3FvB7kVv4NtXkNL",
+          "width": 6000
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110491011208891017584\">Baharuddin Sarjani</a>"
+          ],
+          "photo_reference": "Aaw_FcJbaobDBVgB89wj_uB0lqAcJLkUNBimOcg1zsMSI8mqaBOpvAZ75JfFuNjRw73KezD5rtYqCgHO4LMUpxms5Y4aXgfqjMpa_UKN5Prl6_tVeuusUbINVk6S1okXkmvCzUxKhF3cEwsWJCJni4_e-ByvPD4cDmCSD_0D6V0XoLOsEs8h",
+          "width": 3648
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114727540885935539177\">Arjun Suresh</a>"
+          ],
+          "photo_reference": "Aaw_FcI-lIVmilQ7rga8DaC5StIo3TrR2Ask2zV6dv8aOjeEEh0_uRYMNNbGqxCyizJ0xbIUZebKR4Tpfy6-ngQ61teYbk745a_bdBzFZNjlO4zBIOWxa_ioolcS3JNxbdtdxD21XhrgTu06Jf9Gxr71TggTZOXI_BN6WWErCqpaO-i-VUQA",
+          "width": 3000
+        },
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102416398469977445810\">Swen Scheffler</a>"
+          ],
+          "photo_reference": "Aaw_FcIM5Mc16yFBDq6AHHC3EjI6fmQ0skNM85DNe7nTdVgJoqR7xkpO6doWGTliuVcysROgCcgEKd1GkaOpsHUIF4aWrXWm_qSiJebHximRc2UOflrDWNB-eh1Tq9INmFGyfD7I981YGcfunu7n_CLU8dyJ8rknMaE8Vk658joKzyQp2FLV",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ5-rvAcdJzDERfSgcL1uO2fQ",
+      "reference": "ChIJ5-rvAcdJzDERfSgcL1uO2fQ",
+      "types": ["locality", "political"],
+      "url": "https://maps.google.com/?q=Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur,+Malaysia&ftid=0x31cc49c701efeae7:0xf4d98e5b2f1c287d",
+      "utc_offset": 480,
+      "vicinity": "Kuala Lumpur"
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kuala Lumpur City Centre",
+          "short_name": "Kuala Lumpur City Centre",
+          "types": ["sublocality_level_1", "sublocality", "political"]
+        },
+        {
+          "long_name": "Kuala Lumpur",
+          "short_name": "Kuala Lumpur",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Federal Territory of Kuala Lumpur",
+          "short_name": "Federal Territory of Kuala Lumpur",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Malaysia",
+          "short_name": "MY",
+          "types": ["country", "political"]
+        }
+      ],
+      "adr_address": "<span class=\"extended-address\">Kuala Lumpur City Centre</span>, <span class=\"locality\">Kuala Lumpur</span>, <span class=\"region\">Federal Territory of Kuala Lumpur</span>, <span class=\"country-name\">Malaysia</span>",
+      "formatted_address": "Kuala Lumpur City Centre, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.146642,
+          "lng": 101.6958449
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.156956029729639,
+            "lng": 101.7047340102962
+          },
+          "southwest": {
+            "lat": 3.136613055384423,
+            "lng": 101.6923539726379
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kuala Lumpur City Centre",
+      "photos": [
+        {
+          "height": 902,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111704907255690336175\">Vincent Tay</a>"
+          ],
+          "photo_reference": "Aaw_FcKQVJ7Q-pdTSACVNtH9xsmEzfI93-iZaONiTHDq-K8Z-WKqmU5htjsGu2YyWQ2p_LN8VT346hl3_IX9Y7Z9WOqNX4M3X-6lBLOqL2ki5Izry70BunZLrO2of_qkdbAckKzZwJXTyBEmMvrP6d-vjP48-sk_ipd7I9yzBGtSlmO4E2Y0",
+          "width": 1600
+        },
+        {
+          "height": 4624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114406244545626842546\">Chan K.E.</a>"
+          ],
+          "photo_reference": "Aaw_FcIGhsUvQVxVuEdiG1Rn1yPli673agKuhk-z_YSGqpAPpxIyV7gn9_O_wTOeQLJOhQZc5jI0NeOxewGnjE4AChGzY9C3hhbW-hJrftmSJEiRoLMtZYMhurQkdsXWkK82kVPsndS-8tn-msH1P5NCbmpIn5zwj1pLjcqDsOS0Tx6_KP_T",
+          "width": 2136
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113306139270399925446\">Traveler Forever</a>"
+          ],
+          "photo_reference": "Aaw_FcK1UDxYbFizh8-Aj0UpNI3lB2gHaIBjssNMRhZb7aX1G_6YCa7iQf3GeSXv-o_Yc571yrkhk6UK4CwhOmi2inkLncii9XKnHM-XDW7IrU55eiQYVV47J6hiyr52aBICJ1LvFfcb-mRygGUczYots6e3dlsjGnmhhYy5FoN6m-ogQgee",
+          "width": 3000
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105967516592806417597\">Te Danny</a>"
+          ],
+          "photo_reference": "Aaw_FcLaT-4l5PaauRmM_pFrcMqkbxrLTui40E9lcD7pImhu1KUDUPKqsFAQeU-dq6P_MZiQVJ3zx34FQrVRZnjHSzgH_SciI2vV_hAorF821DTznINKQP_ID1CvYPbC-b_7L27QG-m1f7tigNu_l5P0mgTkxpchQ1VZyZfeJFGIDOL-S7wd",
+          "width": 3096
+        },
+        {
+          "height": 2136,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114406244545626842546\">Chan K.E.</a>"
+          ],
+          "photo_reference": "Aaw_FcJN9ofT9Q14R2ewwL0k5KLmIeTvPirsQgOxNWC5SKC7Cc-QvS8iaXm88xVzuu0N_AfHHAeK8jEYv6m_63-4YwajgtvRItKoxKNTBpbWqVh2v-QuswTbR6ycQo-ZYlz2vF442u6e9sOo-zzNGLXH3gjZM5e594YaWcGnK9YynQxWJN5e",
+          "width": 4624
+        },
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116230392669383468214\">Reaz Ahmed</a>"
+          ],
+          "photo_reference": "Aaw_FcJIi0u-d8pECeFkrY2LzEsHSsh0ZngaIylfKF0jmB4ZQ4ffuUsNBQEGbBt2afbCWGsOiYQBt2fqQ3kzOk6k3YQjWVXOmqq1LBUTJ25eaIGUG5qF5Az3JfuCVSag_SkCctkLK5avTG7QE48U9rmynsq_0HGyd-VStB1PB3E_r6piMZeK",
+          "width": 1024
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117742663725670223343\">hafed qasem</a>"
+          ],
+          "photo_reference": "Aaw_FcKQdOLRdrKUefCOSAJ3NlaDh3EjlV92HIF3cJxJVx-5jIYj4wP4XnEBpaJbyaNAF19xa3qe-y5Pp4dLgeqfWCOtxBmwR4l0aCKJphoZdioJ_XGcnEH4AA_oTHh_E-plOlNkNcafQLRUZ2QwGFk0BlfDoI6zOGPejqcYjRzEcOuXXZcz",
+          "width": 4032
+        },
+        {
+          "height": 460,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116230392669383468214\">Reaz Ahmed</a>"
+          ],
+          "photo_reference": "Aaw_FcL5GlMjXVZafsslDUqYa9Vcvv31iD88i5LXYFy_WBLWoXnPbkqYJKbByr_YoTgvDRbClOsocKOV2ihzqHPyTT-Ktv7dm6c67VCPXbQ8Y-r_hjX9peTBi-POEfrz3X397__dfK7bq8RRbPgnCamxMAjTCAVcKprJA2P6fjf6f5HZbePw",
+          "width": 640
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107446788007547516226\">Isaac Ooi</a>"
+          ],
+          "photo_reference": "Aaw_FcIv0MmyfXf-CmeaYvogCM438qIuzeZmlvYUUgfQZ37ISyDhng_vo-6O0_8Z2Io0TfImrGKSyp638fy3gQ_E7fFnZ2_Fb8Iqo_HUdafV4bPSNLXYixYq4Ir55S6lIMRmpmJ0g3--1upFmpqxeoE18bYokQBFB4ufwoQvMFTfGOEzLb4h",
+          "width": 4160
+        },
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116230392669383468214\">Reaz Ahmed</a>"
+          ],
+          "photo_reference": "Aaw_FcJsE7OiVvnG7f8q9ycorCUAys5FBLViNlrTc_WdcpmR5sWZp-nIizVa6w4R_IIGnRwEGSCrHaERP8oYTMCm4zn3WQJ6jYHurxALmaX16iJNpdcWelM5Dy2Lz1DnjdwzI-hRv7G4iDEeax3CgBxPlH6LeeGgdg07Rv1SGYcuYetcPLSK",
+          "width": 300
+        }
+      ],
+      "place_id": "ChIJ14gJ49NJzDERmsAj2n9LSkY",
+      "reference": "ChIJ14gJ49NJzDERmsAj2n9LSkY",
+      "types": ["sublocality_level_1", "sublocality", "political"],
+      "url": "https://maps.google.com/?q=Kuala+Lumpur+City+Centre,+Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur,+Malaysia&ftid=0x31cc49d3e30988d7:0x464a4b7fda23c09a",
+      "utc_offset": 480,
+      "vicinity": "Kuala Lumpur City Centre"
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kuala Lumpur International Airport",
+          "short_name": "Kuala Lumpur International Airport",
+          "types": ["sublocality_level_1", "sublocality", "political"]
+        },
+        {
+          "long_name": "Sepang",
+          "short_name": "Sepang",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Selangor",
+          "short_name": "Selangor",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Malaysia",
+          "short_name": "MY",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "64000",
+          "short_name": "64000",
+          "types": ["postal_code"]
+        }
+      ],
+      "adr_address": "<span class=\"extended-address\">Kuala Lumpur International Airport</span>, <span class=\"postal-code\">64000</span> <span class=\"locality\">Sepang</span>, <span class=\"region\">Selangor</span>, <span class=\"country-name\">Malaysia</span>",
+      "business_status": "OPERATIONAL",
+      "current_opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2023-07-30",
+              "day": 0,
+              "time": "2359",
+              "truncated": true
+            },
+            "open": {
+              "date": "2023-07-24",
+              "day": 1,
+              "time": "0000",
+              "truncated": true
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "formatted_address": "Kuala Lumpur International Airport, 64000 Sepang, Selangor, Malaysia",
+      "formatted_phone_number": "03-8776 2000",
+      "geometry": {
+        "location": {
+          "lat": 2.7542289,
+          "lng": 101.7043235
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 2.755447930291502,
+            "lng": 101.7057615302915
+          },
+          "southwest": {
+            "lat": 2.752749969708499,
+            "lng": 101.7030635697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/airport_pinlet",
+      "international_phone_number": "+60 3-8776 2000",
+      "name": "Kuala Lumpur International Airport",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105944500078003110089\">Calvin Calvin Toh 陀韋盛</a>"
+          ],
+          "photo_reference": "Aaw_FcIG5P1ZaTl-eBJU3ExvnieagtS2jfsZ4gSnWyuuAAcVO8M110nJ69w344oHDw2bAbTaqKKdqN9QeaLxlaQQ_wFN7H92zSLaZVtnl2d5FN2ThsZ65WfLmIm-BrLspPkcNLy1aaoreSkGCcqWM4W-IsjMzwJsFPC4PLj4b0qel3RwsXyA",
+          "width": 4618
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113903937053130121026\">Wayne Chiu</a>"
+          ],
+          "photo_reference": "Aaw_FcLkjdFZcWVLBv90s6OJaiy_q1qrPcEJFIqUqQ-H6Hry0iKLKigANO-SBYiJG4Q5ZoHt_Wu_NwUEGEN-Uvpyzvc8mAsmWO10ir9c_RL99Uc4hrZPQNcB3yFGmqldH6E9RMLuajOqR4J4pKpmhWXgCXCGhLWj4Mfrt7EL6cqQ__YYlVda",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118307364082342974244\">Ranjith Kizhakoodan Rajan</a>"
+          ],
+          "photo_reference": "Aaw_FcLEE9acPUqectgYho0yyguk7U5WxwZ5t6l0w1xKgMm3j1_FgI3FjhwaIvhQzN-OeNptBI5C0d9PbE8J0sNIc5_1Prx6xDBszs5x-CQpF0k7m2cKD2-SynjfB48kXrNRQ9GxNsbGwhoUvyxp829ZTwX6U_xF9rroK84SRHiPXS4MJzoG",
+          "width": 4032
+        },
+        {
+          "height": 1382,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104937533161591882537\">Shinichi Kee Soon</a>"
+          ],
+          "photo_reference": "Aaw_FcITAD7yYeWT5UkJ95KW-ExmRjRLPSDq0H2rKUppD7skI1vC15-XRhv6sNIGkce7cp7U06xqM7bIkk1pxOF0jS_tTYyp0p-sem1-6P6JCNokcQ16d8u8rpr6vcytK4bnOFuk9Mi6b83iLN7-M2mbIVUb0ciCggBentzoxugftrfmq7h1",
+          "width": 2048
+        },
+        {
+          "height": 5120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100395819986430651028\">Collins</a>"
+          ],
+          "photo_reference": "Aaw_FcI3PWeBGrStNMz9Cou_XRV87WjvLeHnvMQ6BXio9ZGCB3AfYuCjeePCZoCDb-bOkVRvN7ae7i3ZIXGVzpd29a9S_TOG_z_akBemHtJtXNPoJkjjHFzhbDnyhr4PoWUMZjVab7B5XdGfKfP5CZN6LEOFIjOzcgWUd3Ojm3KC1rOLZOQX",
+          "width": 3840
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117707391400170837051\">T H</a>"
+          ],
+          "photo_reference": "Aaw_FcLCOrkiY_LN-Dx1UfyjlLAiLYUxI23zl7qSd50M9l_187mZVIEP3oWlaz-6OKylXulT3H9DP8yiXhmRUcosJasNqKCLzF9P5Y4Iw6_z0rb7Do7VvkZperqls1ZdfBSLEoaI2iT1dPIwDCpocDjCW02EZDA4BRZp-MSgfki0lNad_ioK",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113766408421482315443\">Jeremy Will</a>"
+          ],
+          "photo_reference": "Aaw_FcKypwZNXzNO9CqrD0nk_MhzgYO6Y_iznPF6nCYOHDS1cJ1m552y976uY9QnFObIiRJGS7K8T-zQVip5DlrU3vlqUEJ8K5HGvr3-B1ybiVvCCfQCH24IsOxvhXMj9AwGr5ahu1sPiRA_gt8knUYIM0zRUakl6cOYMuYRvoI38Ir7xRpU",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104698844615254035759\">Jan Emille “Emil” Tena</a>"
+          ],
+          "photo_reference": "Aaw_FcLi5k4In9y-omNsXkbgEWF4C1g4XDBI4oST0HuUh8FQ_NtPAs26u_DumuJtCGZVFOVBx-BMB2ZMYuqMJ2FkzrMClVxFnznxQk--OQvqnrBEE1iqTLsG0cIw6i37gJ0aJaUYugCsYuSEs6XmFuu3E1lF-u2MJmeBNytmwZkQVk0Vm2Ad",
+          "width": 3024
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100751947823086468780\">Badrus Zaman</a>"
+          ],
+          "photo_reference": "Aaw_FcLYTPBU-n8TeIb5TE9Hufu-bEVrQcYUTCB_LIOu-8K5JVoA-QY1WvQGxrFN5ZKzY1FmwvjHtZ2oR3ckGAfg_CJM960Wa2D9OdENq5mjNAIxVHf1sMah42trwNjJJLRq4OBE6tE8LlYaKNj5gAqxl-JE1SDPuarkqe2-SCdcWv0G1ErM",
+          "width": 4000
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100044670522157677644\">Francis Agan</a>"
+          ],
+          "photo_reference": "Aaw_FcLtU32qIgosHFF0ijfXWq-6Ez_PGjo4pf9d6iYViU73Z52-34JS30TXIRUy-96wMIAby3nV4sQ06fkAZkTy2bAmgbOsaGy6oe7Qg3aChT6GYAsyYAOMLYgeH0BXFivKijzFV5joN7djX6WgXGdE_Q-1EQGWwReUk-ntMUshCkcE9h2-",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJERKi1IC_zTERC_q1Z7t4J5g",
+      "plus_code": {
+        "compound_code": "QP33+MP Sepang, Selangor, Malaysia",
+        "global_code": "6PJ3QP33+MP"
+      },
+      "rating": 4.2,
+      "reference": "ChIJERKi1IC_zTERC_q1Z7t4J5g",
+      "reviews": [
+        {
+          "author_name": "aqib khan",
+          "author_url": "https://www.google.com/maps/contrib/101069935960126323099/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMT7Y3HnTxLnBBSyVCNOr0-XCdi9rqIFrC7DQqKOun7QZB8=s128-c0x00000000-cc-rp-mo-ba5",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "Quality global airport. It has numerous food courts, spotless amenities, and comfortable seating. A pleasant spot to while away the hours of a layover. The airport's rail system is great because it can transport you between terminals as well as into central Kuala Lumpur.",
+          "time": 1689101112,
+          "translated": false
+        },
+        {
+          "author_name": "吳佩軒",
+          "author_url": "https://www.google.com/maps/contrib/115266176919330760206/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMRNy1evc45pfj02_eRM0IngV0raPb6d7Y5K5rsLVm4SVw=s128-c0x00000000-cc-rp-mo-ba5",
+          "rating": 4,
+          "relative_time_description": "4 weeks ago",
+          "text": "Kuala Lumpur International Airport is well-maintained and has a well-planned layout with clear signage. It's always helpful when airports are easy to navigate. Additionally, it's fantastic that the cleanliness of the restrooms is well taken care of. Clean and tidy facilities, especially restrooms, are crucial for a pleasant travel experience. The airport's diverse range of duty-free shops and boutiques also provides a variety of options to pass the time. Overall, Kuala Lumpur International Airport offers a positive experience with its cleanliness, efficient design, and diverse retail options.",
+          "time": 1687666978,
+          "translated": false
+        },
+        {
+          "author_name": "Bimalangkar",
+          "author_url": "https://www.google.com/maps/contrib/110485384867282554841/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMTQJ3cz4yvvKtI9C-NJ7oUKUuzVxFEHh_cnxyxfH0GRg3Y=s128-c0x00000000-cc-rp-mo-ba7",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "One of the best airports in Asia, it's located a bit far from Kuala Lumpur city but the communication way is so good. It takes about 50-60 min to arrive in KL city from the airport. Thousands of people around the airport and immigration process are very smooth.",
+          "time": 1687367359,
+          "translated": false
+        },
+        {
+          "author_name": "Pranesh Guna",
+          "author_url": "https://www.google.com/maps/contrib/117866026539057757524/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMSCUTxguFwJAM1oiuc51HcPhdGXs4ltJum1GlnWB69zcKs=s128-c0x00000000-cc-rp-mo-ba5",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "a world-class airport that left me impressed. Its modern infrastructure and efficient facilities make for a seamless travel experience. The airport offers a wide range of dining and shopping options, keeping passengers entertained during layovers. The friendly staff and smooth operations add to the overall positive experience.",
+          "time": 1686220005,
+          "translated": false
+        },
+        {
+          "author_name": "Hasan Firmansyah 傅翰森",
+          "author_url": "https://www.google.com/maps/contrib/100033162043557163519/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMSvQjSxOGUZ-A_tknmszIrVxRaeA-tO6jeu1Q5fbnSFLoI=s128-c0x00000000-cc-rp-mo-ba4",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "Kuala Lumpur International Airport provides good service. Besides being clean, there are many beautiful interior designs. The prayer room for Muslims is separated for men and women. The free wifi is also satisfactory, no login required to use, and the connection interruptions are rare.",
+          "time": 1689402512,
+          "translated": false
+        }
+      ],
+      "types": ["airport", "point_of_interest", "establishment"],
+      "url": "https://maps.google.com/?cid=10963864564150958603",
+      "user_ratings_total": 35136,
+      "utc_offset": 480,
+      "vicinity": "Kuala Lumpur International Airport, Sepang",
+      "website": "http://airports.malaysiaairports.com.my/",
+      "wheelchair_accessible_entrance": true
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kuala Lumpur City Centre",
+          "short_name": "Kuala Lumpur City Centre",
+          "types": ["sublocality_level_1", "sublocality", "political"]
+        },
+        {
+          "long_name": "Kuala Lumpur",
+          "short_name": "Kuala Lumpur",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Wilayah Persekutuan Kuala Lumpur",
+          "short_name": "Wilayah Persekutuan Kuala Lumpur",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Malaysia",
+          "short_name": "MY",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "50088",
+          "short_name": "50088",
+          "types": ["postal_code"]
+        }
+      ],
+      "adr_address": "<span class=\"extended-address\">Kuala Lumpur City Centre</span>, <span class=\"postal-code\">50088</span> <span class=\"locality\">Kuala Lumpur</span>, <span class=\"region\">Wilayah Persekutuan Kuala Lumpur</span>, <span class=\"country-name\">Malaysia</span>",
+      "business_status": "OPERATIONAL",
+      "current_opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2023-07-30",
+              "day": 0,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2023-07-30",
+              "day": 0,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "date": "2023-07-24",
+              "day": 1,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2023-07-24",
+              "day": 1,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "date": "2023-07-25",
+              "day": 2,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2023-07-25",
+              "day": 2,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "date": "2023-07-26",
+              "day": 3,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2023-07-26",
+              "day": 3,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "date": "2023-07-27",
+              "day": 4,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2023-07-27",
+              "day": 4,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "date": "2023-07-28",
+              "day": 5,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2023-07-28",
+              "day": 5,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "date": "2023-07-29",
+              "day": 6,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2023-07-29",
+              "day": 6,
+              "time": "0800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 8:00 AM – 6:00 PM",
+          "Tuesday: 8:00 AM – 6:00 PM",
+          "Wednesday: 8:00 AM – 6:00 PM",
+          "Thursday: 8:00 AM – 6:00 PM",
+          "Friday: 8:00 AM – 6:00 PM",
+          "Saturday: 8:00 AM – 6:00 PM",
+          "Sunday: 8:00 AM – 6:00 PM"
+        ]
+      },
+      "formatted_address": "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "formatted_phone_number": "03-2333 2888",
+      "geometry": {
+        "location": {
+          "lat": 3.1531161,
+          "lng": 101.7126151
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.154525480291502,
+            "lng": 101.7139996302915
+          },
+          "southwest": {
+            "lat": 3.151827519708498,
+            "lng": 101.7113016697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+60 3-2333 2888",
+      "name": "Kuala Lumpur Convention Centre",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "1800"
+            },
+            "open": {
+              "day": 0,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1800"
+            },
+            "open": {
+              "day": 1,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1800"
+            },
+            "open": {
+              "day": 2,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1800"
+            },
+            "open": {
+              "day": 3,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1800"
+            },
+            "open": {
+              "day": 4,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1800"
+            },
+            "open": {
+              "day": 5,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1800"
+            },
+            "open": {
+              "day": 6,
+              "time": "0800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 8:00 AM – 6:00 PM",
+          "Tuesday: 8:00 AM – 6:00 PM",
+          "Wednesday: 8:00 AM – 6:00 PM",
+          "Thursday: 8:00 AM – 6:00 PM",
+          "Friday: 8:00 AM – 6:00 PM",
+          "Saturday: 8:00 AM – 6:00 PM",
+          "Sunday: 8:00 AM – 6:00 PM"
+        ]
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101341350621505176360\">Fazliaza Mohamad Arif</a>"
+          ],
+          "photo_reference": "Aaw_FcJd-jGB4KjvMRmHtKNnw2gqUF2K7P7RNlAWKXPSn1bhQT9hBnIGmGnLB24QAaoM20bbBfdUj3CyciLUU3vcgsG6b6ysjBS-eM48_2V2QgFc5FC67fCKkJ4fKO4JwM36SKyw1zDowwZxlc7TctPIx9MlCo2p1Y7FI7hKKh-PXI9ed_iz",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105881285521567303432\">Louis Ng</a>"
+          ],
+          "photo_reference": "Aaw_FcJ_6h7YJ_GvL3krPyLz3HLObTOVkQJym_CFtCT1MeZD2j95xje9Zffrz5p2gboew4xq0qmrthV47ZnZv4YVRIuFWLQRPSksLn_mlNForoT5kD7OoNWtOWr9-rIS8maqDbce17VY_w_fczmtibQ9B2xhnICSUo_4yPJqO3QHJdR0fHdf",
+          "width": 6000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101808125017863211788\">Khampaseuth Vongsakit</a>"
+          ],
+          "photo_reference": "Aaw_FcIzlarj8YcyB2tOM5ywwh-jmIJAR-2pdiQl2Jf00FpsABvFvXgPJZc2k2jfStU4ClhDqLYwbOq_eLHJLdRcTWPYcQ99xORRvccGFOPJ7ELVtx_wCpqVSYx07yGnLj1V6orMxWl1ztErl4VIL0Avcs_KrKP4hzMUcNymUoDLZvurHnad",
+          "width": 3024
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118324715751477493536\">maverick chen</a>"
+          ],
+          "photo_reference": "Aaw_FcKdph3uW0rRfM1wx3HsFe5yQJ4h9vG7l-AKBdhBM4U9i4jcTBgUtUvD8ubTfvYykMNtvJpbPHbfK8-q6080IU2sZFvXIDWd65as0qOwqow51Fkth9IkOpQgiuHKAZhrC4nF8gt48NULDpUYC7YOyE58gSnkr9O5U3BShRFszYB1lp3D",
+          "width": 3000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113433708298774350955\">Le。樂</a>"
+          ],
+          "photo_reference": "Aaw_FcKT9jIArI7fAzqRPfJDR6SoHsfo5UCi87RnyOYxQloB3NZeuzLFkEOZX8qU-nCVKu0ygb5JyCnWQCk4wAk4L57XWup1uWuJVuNrigJjvLt7H91IwoYcggZW-k12LZpYb-1Msi4M3_u5ytvaxBEQvsVffb_Vwui02DzAbsElw9fNJdwT",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100535145368811603470\">Ronald Richard</a>"
+          ],
+          "photo_reference": "Aaw_FcL7DHMeoYW-pzg70aKA_JB5H_r6yFPWHYrw4-2SRBtt27uYx0uUQj9sNTXfLVrv1jpnIc-oqrk_1Z5sU7382NNBHd0SC2SkkVOhuLopUmKbonjZ9FSZ4xiJ712F7_qZ-iaMBpDGiN3bq0M0hUUzqGzdoBtz0_KEXOv6W6ZGVtV-lMnk",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115555873215056960935\">Adriana Aisy Family</a>"
+          ],
+          "photo_reference": "Aaw_FcIKFL7uiKtt8fUwPHpOPMKGmZV4V_51IXqkSVMUl6B5U4cAk6ZTvy_mAo3t7hz_eeOv4zVfaatb0mwIR0a7N-9jMLSG5L66oFZt9tovq9O-W0QGlbD5PddS_CX3tyua1U-Z4tuqAciaXI8GMTvsxc29v3WQ4HHE3qFPTT5t4Z9CWA7D",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115417204146294022143\">Carmen Leong</a>"
+          ],
+          "photo_reference": "Aaw_FcKLVhF5gHA3Uwk7SkNW4qmNB8A2zPOvvap5wFDN5w-GIrxyNHVdgwLkQ-6pl0tVXIJK4zYcX6O2_pGpJrffsG33idcqz8028mJ_xKekXVpXQhknElThdtrM3nImiB_ILMyeAn8XBB5nj38wyKW56fA4V78Z4-XmINUYaei9NVeZa3Ch",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100892408185157811373\">Amar Zarif Azamin</a>"
+          ],
+          "photo_reference": "Aaw_FcIbHjNORfz_GETf7NbslxEcA9ptEJ634UlJRVyBM6qWomWJUjCfpat758I8x-MiSk9XM-FN9ObDJScctM_EcVtFCUMjiJ3kev4zeAxPrpkL8KJDecZJXA7UuxrT5Cfl5KMldqoXkl-bCWO89cPKb93aEjyalnr_OYWp0DlOy1YgtD0I",
+          "width": 4032
+        },
+        {
+          "height": 6944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116129209558990728503\">KoDoMoK</a>"
+          ],
+          "photo_reference": "Aaw_FcKvRUzJk4WIU-zD7uInIEl34sf71GQhTl-aPp3XlQK_hDFjMqB2me_OVnjB-37mgy813mtDkfxQ9SaD6W6onWnoF6yVT1cWoZTTxIvuy_cnQwZdAleoqTnrHFqUnY8M06e1ruaUdTD2pM_BbQmtDB6WEqWJlGVG1YILMC1RWxSP3fU2",
+          "width": 9280
+        }
+      ],
+      "place_id": "ChIJ__zTe9M3zDERtzz3V5s1Bnc",
+      "plus_code": {
+        "compound_code": "5P37+62 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P37+62"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ__zTe9M3zDERtzz3V5s1Bnc",
+      "reviews": [
+        {
+          "author_name": "Xi Zhen Tan",
+          "author_url": "https://www.google.com/maps/contrib/118314234192305918165/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMQqSW6PW3jKKdGDpzCMA60BTpuUKexlJeVtuMisgdL05g=s128-c0x00000000-cc-rp-mo-ba5",
+          "rating": 5,
+          "relative_time_description": "5 months ago",
+          "text": "Nice and spacious. Guards are extremely helpful, they guide you around the place when you're lost trying to find the lift to your car. Parking is very expensive, but place is brightly lit. Amenities are clean. Beautiful scenery too.",
+          "time": 1676986246,
+          "translated": false
+        },
+        {
+          "author_name": "Cheah KM",
+          "author_url": "https://www.google.com/maps/contrib/107997016613327402919/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMRrQR1riix7_FiDFah2zQZk2v35XJQmDEHWKHBS6R-tRuQ=s128-c0x00000000-cc-rp-mo-ba4",
+          "rating": 5,
+          "relative_time_description": "4 months ago",
+          "text": "Good place for net working and there are many conference rooms. I had my Ramadan Buffet preview here. Many stalls are set up serving many types of traditional food. Taste of food is delicious, especially the local kuihs",
+          "time": 1678416315,
+          "translated": false
+        },
+        {
+          "author_name": "K K",
+          "author_url": "https://www.google.com/maps/contrib/108514436686121518615/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a/AAcHTtfvf4meq1YVrY6FVYW-R6kzvDvhRY3_uM03wg71afFU=s128-c0x00000000-cc-rp-mo",
+          "rating": 1,
+          "relative_time_description": "a week ago",
+          "text": "Worse loading management security from (Mr Mikial) for hall 4 that keep ignoring people request. While other hall was going so smoothly. When the line was empty, he still don't wanna let other truck come in. This already not the first time I facing this issue with this guys. Totally impolite and rude person. How he can still working there while already have so many people complaining this guy. Please take this issue seriously. Thx.",
+          "time": 1689000717,
+          "translated": false
+        },
+        {
+          "author_name": "Candyce Low",
+          "author_url": "https://www.google.com/maps/contrib/117268485996006425655/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMS4z8qnMTD55eU3V-AuKhcsYSC78Y7PrHTLqcmrnkuPsmk=s128-c0x00000000-cc-rp-mo",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Easily accessible.\nRight next to KLCC Suria.\nPerfect for events with mass crowds.\n\nLavatories are of great hygiene.",
+          "time": 1685194119,
+          "translated": false
+        },
+        {
+          "author_name": "Dr Sridhar Rajendran",
+          "author_url": "https://www.google.com/maps/contrib/104317793558225498818/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMQVQucae8TRAa4v3fyF4H7UwjKXqWsk0CcC6NYvQEyxUkTG=s128-c0x00000000-cc-rp-mo-ba4",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "We visited KLCC to visit Auarium and spent time at Food court.\nSince KLCC is in the heart of the city and close to PETRONAS towers, we spoke to time in the places around KLCC.\n\nWe suggest travelers to spend at least half a day in this area.\nA scenic, eyefilling views are splendid.\n\nKLCC itself such huge area, beautifully and thkughtfuly designed convention centre.\n\nKLCC park has to be visited in the evening.",
+          "time": 1686534432,
+          "translated": false
+        }
+      ],
+      "types": ["point_of_interest", "establishment"],
+      "url": "https://maps.google.com/?cid=8576601481685712055",
+      "user_ratings_total": 9858,
+      "utc_offset": 480,
+      "vicinity": "Kuala Lumpur City Centre, Kuala Lumpur",
+      "website": "https://www.klccconventioncentre.com/",
+      "wheelchair_accessible_entrance": true
+    }
+  ],
+  "status": "OK"
+}
